@@ -1,0 +1,5 @@
+python-telegram-bot
+aiohttp
+git+https://github.com/XMYSTERlOUSX/pyrogram
+tgcrypto
+requests
